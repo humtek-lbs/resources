@@ -2,7 +2,7 @@
 Her organisere vi fældes resurser for projektet
 
 ## On GitHub
-Når i opretter et nyt reproserty til websider kan i med fordel klone https://github.com/AAmosen/htmlSkabelon
+Når i opretter et nyt repository til websider kan i med fordel importere  https://github.com/AAmosen/htmlSkabelon (det sidste valg på siden efter at have oprettet et nut repository
 
 ## Om App inventer 
 * [Dokumentation for Map component](http://ai2.appinventor.mit.edu/reference/components/maps.html)
