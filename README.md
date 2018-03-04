@@ -1,6 +1,9 @@
 # Resurser
 Her organisere vi fældes resurser for projektet
 
+## On GitHub
+Når i opretter et nyt reproserty til websider kan i med fordel klone https://github.com/AAmosen/htmlSkabelon
+
 ## Om App inventer 
 * [Dokumentation for Map component](http://ai2.appinventor.mit.edu/reference/components/maps.html)
 
