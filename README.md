@@ -5,7 +5,7 @@ Her organisere vi fældes resurser for projektet
 
 ## Om Agile
 * [Introduktions vidio til hvad Agile er](https://youtu.be/Z9QbYZh1YXY)
-* [Om at udarbejde user stories](https://youtu.be/apOvF9NVguA)
+* [Video om at udarbejde user stories](https://youtu.be/apOvF9NVguA)
 
 ## Om Åmosen
 * [Naturpark Åmosen](http://naturparkaamosen.dk/)
