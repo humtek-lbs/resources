@@ -1,9 +1,13 @@
 # Resurser
 Her organisere vi fældes resurser for projektet
 
-## App inventer stumper
+## Om App inventer 
 
-## Links
+## Om Agile
+* [Introduktions vidio til hvad Agile er](https://youtu.be/Z9QbYZh1YXY)
+* [Om at udarbejde user stories](https://youtu.be/apOvF9NVguA)
+
+## Om Åmosen
 * [Naturpark Åmosen](http://naturparkaamosen.dk/)
 * [Skole lærings side](http://www.aamose.dk/?moseguide=nej)
 
