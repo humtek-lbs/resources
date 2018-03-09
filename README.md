@@ -22,3 +22,6 @@ Når i opretter et nyt repository til websider kan i med fordel importere  https
 ## Om GeoJson
 * [Wikipidia side om GeoJson](https://en.wikipedia.org/wiki/GeoJSON)
 * [Online GeoJSON editor](http://geojson.io/)
+
+## Poster Design
+* https://github.com/AAmosen/Resurser/blob/master/poster%20design2017.pdf
