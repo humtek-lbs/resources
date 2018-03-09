@@ -25,3 +25,5 @@ Når i opretter et nyt repository til websider kan i med fordel importere  https
 
 ## Poster Design
 * https://github.com/AAmosen/Resurser/blob/master/poster%20design2017.pdf
+* https://github.com/AAmosen/Resurser/blob/master/Adobe%20InDesign%20poster%20Part1.pdf
+
