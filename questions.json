@@ -1,18 +1,18 @@
 {"questions":[
 	{
 		"spørgsmål":"spørgsmål 1",
-		"Svar":["Svar1","Svar2","Svar3"],
-		"Ririgtig":1
+		"svar":["Svar1","Svar2","Svar3"],
+		"rigtig":1
 	},
 	{
 		"spørgsmål":"spørgsmål 2",
-		"Svar":["Svar1","Svar2","Svar3"],
-		"Ririgtig":2
+		"svar":["Svar1","Svar2","Svar3"],
+		"rigtig":2
 	},
 	{
 		"spørgsmål":"spørgsmål 3",
-		"Svar":["Svar1","Svar2","Svar3"],
-		"Ririgtig":3
+		"svar":["Svar1","Svar2","Svar3"],
+		"rigtig":3
 	}
 ]
 }
