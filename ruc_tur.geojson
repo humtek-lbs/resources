@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Farve": "Gul",
-        "Navn": "Sti",
+        "farve": "Gul",
+        "navn": "Sti",
         "url": "http://www.dr.dk"
       },
       "geometry": {
