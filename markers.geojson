@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "farve": "Blå",
+        "navn": "Bib",
+        "url": "http://www.ruc.dk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13590145111084,
+          55.651684214157626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://www.ruc.dk",
+        "farve": "Rød",
+        "navn": "HumTek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138111591339111,
+          55.65313701530163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "farve": "Grøn",
+        "navn": "Workshop",
+        "url": "http://www.ruc.dk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141330242156982,
+          55.653294398856055
+        ]
+      }
+    }
+  ]
+}
