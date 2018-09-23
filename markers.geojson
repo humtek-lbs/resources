@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Bib",
+        "title": "Bib",
         "url": "http://www.ruc.dk"
       },
       "geometry": {
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "url": "http://www.ruc.dk",
-        "Name": "HumTek"
+        "title": "HumTek"
       },
       "geometry": {
         "type": "Point",
@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Workshop",
+        "title": "Workshop",
         "url": "http://www.ruc.dk"
       },
       "geometry": {
