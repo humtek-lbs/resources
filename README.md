@@ -11,10 +11,6 @@ Når i opretter et nyt repository til websider kan i med fordel importere  https
 * [Introduktions vidio til hvad Agile er](https://youtu.be/Z9QbYZh1YXY)
 * [Video om at udarbejde user stories](https://youtu.be/apOvF9NVguA)
 
-## Om Åmosen
-* [Naturpark Åmosen](http://naturparkaamosen.dk/)
-* [Skole lærings side](http://www.aamose.dk/?moseguide=nej)
-
 ## Om HTML 5
 * [Intro til html 5 syntaks](https://www.w3schools.com/html/html5_syntax.asp)
 * [Online html editor](https://html-online.com/editor/)
@@ -22,8 +18,9 @@ Når i opretter et nyt repository til websider kan i med fordel importere  https
 ## Om GeoJson
 * [Wikipidia side om GeoJson](https://en.wikipedia.org/wiki/GeoJSON)
 * [Online GeoJSON editor](http://geojson.io/)
+* https://jsoneditoronline.org/
 
 ## Poster Design
-* https://github.com/AAmosen/Resurser/blob/master/poster%20design2017.pdf
-* https://github.com/AAmosen/Resurser/blob/master/Adobe%20InDesign%20poster%20Part1.pdf
+* https://github.com/humtek-lbs/resources/blob/master/poster%20design2017.pdf
+* https://github.com/humtek-lbs/resources/blob/master/Adobe%20InDesign%20poster%20Part1.pdf
 
