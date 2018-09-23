@@ -4,8 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "farve": "Blå",
-        "navn": "Bib",
+        "Name": "Bib",
         "url": "http://www.ruc.dk"
       },
       "geometry": {
@@ -20,8 +19,7 @@
       "type": "Feature",
       "properties": {
         "url": "http://www.ruc.dk",
-        "farve": "Rød",
-        "navn": "HumTek"
+        "Name": "HumTek"
       },
       "geometry": {
         "type": "Point",
@@ -34,8 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "farve": "Grøn",
-        "navn": "Workshop",
+        "name": "Workshop",
         "url": "http://www.ruc.dk"
       },
       "geometry": {
