@@ -9,7 +9,7 @@
         "description": "http://www.ruc.dk",
         "draggable": "false",
         "fill": "red",
-        "visible": "false"
+        "visible": "true"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "description": "http://www.dr.dk",
         "draggable": "false",
         "fill": "green",
-        "visible": "false"
+        "visible": "true"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +45,7 @@
         "description": "https://humtek-lbs.github.io/htmlSkabelon/",
         "draggable": "true",
         "fill": "blue",
-        "visible": "false"
+        "visible": "true"
       },
       "geometry": {
         "type": "Point",
