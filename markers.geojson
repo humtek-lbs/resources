@@ -5,7 +5,11 @@
       "type": "Feature",
       "properties": {
         "title": "Bib",
-        "url": "http://www.ruc.dk"
+        "url": "http://www.ruc.dk",
+        "description": "http://www.ruc.dk",
+        "draggable": "false",
+        "fill": "red",
+        "visible": "false"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +23,11 @@
       "type": "Feature",
       "properties": {
         "url": "http://www.ruc.dk",
-        "title": "HumTek"
+        "title": "HumTek",
+        "description": "http://www.dr.dk",
+        "draggable": "false",
+        "fill": "green",
+        "visible": "false"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +41,11 @@
       "type": "Feature",
       "properties": {
         "title": "Workshop",
-        "url": "http://www.ruc.dk"
+        "url": "http://www.ruc.dk",
+        "description": "https://humtek-lbs.github.io/htmlSkabelon/",
+        "draggable": "true",
+        "fill": "blue",
+        "visible": "false"
       },
       "geometry": {
         "type": "Point",
