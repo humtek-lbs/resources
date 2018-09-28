@@ -9,7 +9,7 @@
         "description": "http://www.ruc.dk",
         "draggable": "false",
         "fill": "red",
-        "visible": "true"
+        "visible": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "description": "http://www.dr.dk",
         "draggable": "false",
         "fill": "green",
-        "visible": "true"
+        "visible": "True"
       },
       "geometry": {
         "type": "Point",
