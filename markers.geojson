@@ -45,7 +45,7 @@
         "description": "https://humtek-lbs.github.io/htmlSkabelon/",
         "draggable": "true",
         "fill": "blue",
-        "visible": "False"
+        "visible": "FALSE"
       },
       "geometry": {
         "type": "Point",
